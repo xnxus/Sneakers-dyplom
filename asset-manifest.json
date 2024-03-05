@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sneakers-dyplom/static/css/main.bafc3af1.css",
+    "main.js": "/Sneakers-dyplom/static/js/main.96bb463c.js",
+    "index.html": "/Sneakers-dyplom/index.html",
+    "main.bafc3af1.css.map": "/Sneakers-dyplom/static/css/main.bafc3af1.css.map",
+    "main.96bb463c.js.map": "/Sneakers-dyplom/static/js/main.96bb463c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bafc3af1.css",
+    "static/js/main.96bb463c.js"
+  ]
+}
