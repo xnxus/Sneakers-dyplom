@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Sneakers-dyplom/static/css/main.355f3e4c.css",
+    "main.css": "/Sneakers-dyplom/static/css/main.8d57ccaf.css",
     "main.js": "/Sneakers-dyplom/static/js/main.96bb463c.js",
     "index.html": "/Sneakers-dyplom/index.html",
-    "main.355f3e4c.css.map": "/Sneakers-dyplom/static/css/main.355f3e4c.css.map",
+    "main.8d57ccaf.css.map": "/Sneakers-dyplom/static/css/main.8d57ccaf.css.map",
     "main.96bb463c.js.map": "/Sneakers-dyplom/static/js/main.96bb463c.js.map"
   },
   "entrypoints": [
-    "static/css/main.355f3e4c.css",
+    "static/css/main.8d57ccaf.css",
     "static/js/main.96bb463c.js"
   ]
 }
