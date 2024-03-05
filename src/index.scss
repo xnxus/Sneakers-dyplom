@@ -4,7 +4,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  background: #e7f6ff;
+  background: #5aaa68; 
+  background: linear-gradient(
+    to right,
+    #ee931c 0%,
+    #3e2fc2 20%,
+    #3cb5da 40%,
+    #3cb5da  60%,
+    #3e2fc2 80%,
+    #ee931c 100%
+  );
 }
 
 * {
